@@ -1,0 +1,10 @@
+{
+  "name": "djaagal Connect",
+  "description": "Plateforme de mise en relation voyageurs et agences de voyage au Cameroun avec assistant IA 24h/24.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "AI-powered travel assistance",
+    "Real-time journey search",
+    "Simulated mobile money payments"
+  ]
+}
